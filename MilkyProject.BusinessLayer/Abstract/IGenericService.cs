@@ -15,4 +15,4 @@ namespace MilkyProject.BusinessLayer.Abstract
         T TGetById(int id);
     }
 }
-}
+
